@@ -32,7 +32,7 @@
 
 9.Dynamic =  It support dynamic loading(load on demand) of classes.
 
-10.Interpreted = 
+10.Interpreted = line by line execution
 11.Distributed = with this we can access files by calling the method from any machine on internet.
 
 12.Multithreaded = Java can write program that runs multiple task at a time by defining threads.
