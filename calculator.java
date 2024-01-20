@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class calculator {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.print("Enter No.of Subjects :- ");
+        System.out.print("Enter No.of Subject :- ");
         int n=sc.nextInt();
         float total=0.0f;
         for(int i=0;i<n;i++){
