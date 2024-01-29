@@ -37,9 +37,12 @@ class Employee{
 public class constructors {
     public static void main(String[] args){
         
-        Employee first = new Employee();
-        Employee second = new Employee(2);
-        Employee third = new Employee(3,25000,"Ramesh");
+        Employee first = new Employee(); // using constructor with no argument
+
+        Employee second = new Employee(2); // using constuctor with one of argument
+
+        Employee third = new Employee(3, 25000, "Ramesh"); // using constructor with all argument
+
 
         first.getinfo();
         second.getinfo();
