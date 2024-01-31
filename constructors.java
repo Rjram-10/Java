@@ -9,6 +9,7 @@ class Employee{
         id=1;
         Salary=4500;
         Name="Rajesh";
+
     
     }
     
