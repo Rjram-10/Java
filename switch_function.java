@@ -7,8 +7,8 @@ public static void main(String[] args) {
             case "Shubham" :
                 System.out.println("You are selected in company");
                 break;
-            //case "Aman" -> System.out.println("Being patience is key to success"); it's a way of
-            //  writing switch case in intense switch mode supported only above Java 14
+            //case "Aman" -> System.out.println("Being patience is key to success"); 
+                       // it's a way of writing switch case in intense switch mode supported only above Java 14
             case "Param":
                 System.out.println("Part of team");
             default:
