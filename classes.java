@@ -15,7 +15,7 @@ class Employee{
         name=n;
         System.out.println("New name is :- "+name);
     }}
-public class classes {
+
 
         
 
