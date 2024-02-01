@@ -34,6 +34,8 @@ public class construc_inheritence {
     public static void main(String[] args) {
         // Parent q=new Parent();
         // Parent p=new Parent(25);
+
+        final float c=56.45; //This final is sets the value of variable that can't be changed throughout the whole program
         
         child c=new child("Ram",25);
         
