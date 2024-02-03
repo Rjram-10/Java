@@ -10,7 +10,7 @@ class Car{
         this.setyear(year);
     }
 
-    Car(Car x){
+    Car(Car x){              // Copy the object 
         this.copy(x);
     }
 
@@ -36,7 +36,7 @@ class Car{
         return comp;
     } 
 
-    void copy(Car x){
+    void copy(Car x){ // code for copy from object 1 pasting in object 2 
         this.setcomp(x.getcomp());
         this.setmodel(x.getmodel());
         this.setyear(x.getyear());
