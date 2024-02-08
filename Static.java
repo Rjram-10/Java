@@ -2,7 +2,7 @@
             throughout all obejcts the variable/method have same value and it could accessed without
             using object
    */
-class Friend{
+class Friend{ 
     String name;
     static int numoffriend;
 
