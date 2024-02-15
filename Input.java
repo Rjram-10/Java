@@ -4,7 +4,7 @@ public class Input {
     public static void main(String[] args) {
         System.out.println("Getting input from user :-");
 
-        Scanner sc = new Scanner(System.in); // Class defining for taking inputs and to take inputs 
+        Scanner sc = new Scanner(System.in); // Class defining for taking inp uts and to take inputs 
                                              // we have to make object of it to take input from users
         
         System.out.println("Number 1:- ");
