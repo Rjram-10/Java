@@ -8,7 +8,7 @@ class Food{
 
 public class array {
     public static void main(String[] args) {
-        
+         
         Food[] Fridge=new Food[3]; //Declaration of array of datatype of Food[]
         
         Food food1=new Food("Pizza"); 
