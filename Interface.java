@@ -6,7 +6,7 @@ interface Prey {
     default void info(){     // Default method , it's bodu can be defined here
         System.out.println("It's a prey ");  
     }
-    static void Printting(String s){      //Static method , it's body can be defined here
+    static void Printting(String s){      //Static method , it's body can be defined here 
         System.out.println("This animal is "+s);
     } 
     void Prints(String s);  // Abstract method , it will be defined in class/interface in which it is implements/extend resp.
