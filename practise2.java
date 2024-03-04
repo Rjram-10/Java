@@ -7,7 +7,7 @@ public class practise2 {
 	{
 		int row = arr.length;
 		int col = arr[0].length;
-		int l = 0, h = row * col - 1;
+		int l = 0, h = row * col - 1;  
 
 		while (l <= h) {
 			int mid = l + (h - l) / 2;
