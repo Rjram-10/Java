@@ -9,7 +9,7 @@ class Friend{
     Friend(String name){
         this.name=name;
         numoffriend++;
-    }
+    }  
  
     static void Display(){
         System.out.println("The number of friends is "+numoffriend);
