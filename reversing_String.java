@@ -25,7 +25,7 @@ public class reversing_String{
         for(String si:so){
             String f=si.substring(0,1);
             String l=si.substring(1);
-            jk=f.toUpperCase()+l+" "+jk;
+            jk=f.toUpperCase()+l+" "+jk;  // Capitalize first letter
         }
 
         System.out.println("Uppercase String - "+n); 
