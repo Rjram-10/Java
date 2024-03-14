@@ -1,7 +1,7 @@
 /* static = a single copy of method/variable is created and shared among the objects the class
             throughout all obejcts the variable/method have same value and it could accessed without
             using object
-   */
+   */ 
 class Friend{ 
     String name;
     static int numoffriend;
