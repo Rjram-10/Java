@@ -11,7 +11,7 @@ public class practise {
         int total=0;
         int totalnum=0;
         
-        System.out.print("Is maximum marks of each subject is same or different . Y/N :- ");
+        System.out.print("Is maximum marks of each subject is same or different . Y/N :- "); 
         char c=sc.next().charAt(0); // We can't do typecasiting here as String is an Object and
                                     // char is a data types .
         
