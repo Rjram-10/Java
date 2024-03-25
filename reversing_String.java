@@ -10,7 +10,7 @@ public class reversing_String{
         char[] ch=s.toCharArray();
         String[] so=s.split("\\s");
 
-        String n="";
+        String n=""; 
         String j="";
 
         for(int i=ch.length-1;i>=0;i--){
