@@ -9,7 +9,7 @@ public class Variable_argument {
         
         for(int i:arr){
             result+=i;
-        }
+        } 
         
         return result;
     
