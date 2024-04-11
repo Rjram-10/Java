@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class switch_function{
+public class switch_function{ 
 public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String s=sc.nextLine();
